@@ -13,7 +13,7 @@ Computational biologist interested in:
 ### Microbiome Analysis Pipeline
 End-to-end microbiome workflow using public datasets.
 
-➡️ https://github.com/sethamano/microbiome-analysis-pipeline
+➡️ https://github.com/sethamano/microbiome-ibd-project
 
 ### DeepSurv Survival Analysis
 Neural-network survival modeling and Kaplan-Meier analysis.
