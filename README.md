@@ -3,12 +3,18 @@
 MS Data Science in Biomedicine @ UCLA
 
 Computational biologist interested in:
+- Foundation Models
 - Microbiome analysis
 - Epigenomics
 - Machine learning
 - Bioinformatics pipelines
 
 ## Featured Projects
+
+### Fine-tuned scGPT model
+Cross-donor single-cell RNA-seq annotation using logistic regression, frozen scGPT, and partially fine-tuned scGPT.
+
+➡️ https://github.com/sethamano/scGPT-cross-donor-annotation
 
 ### Microbiome Analysis Pipeline
 End-to-end microbiome workflow using public datasets.
