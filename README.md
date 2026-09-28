@@ -21,12 +21,12 @@ End-to-end microbiome workflow using public datasets.
 
 ➡️ https://github.com/sethamano/microbiome-ibd-project
 
-### DeepSurv Survival Analysis
+### DeepSurv Survival Analysis (MS Project)
 Neural-network survival modeling and Kaplan-Meier analysis.
 
 ➡️ https://github.com/sethamano/survival-analysis-deepsurv
 
-### Waveform Norepinephrine Classifier
+### Waveform Norepinephrine Classifier (MS Project)
 Deep learning on physiological waveforms.
 
 ➡️ https://github.com/sethamano/waveform-norepinephrine-classifier
